@@ -1,0 +1,10 @@
+streamlit>=1.50
+pandas>=2.0
+plotly>=5.18
+pillow>=10.0
+pytesseract>=0.3.10
+pdfplumber>=0.10
+pdf2image>=1.17
+SpeechRecognition>=3.10
+deep-translator>=1.11
+requests>=2.31

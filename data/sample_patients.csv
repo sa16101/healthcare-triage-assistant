@@ -1,0 +1,13 @@
+patient_id,age,gender,language,facility_type,days_ago,symptom_text,report_text,review_status
+DEMO001,35,Female,Hindi,Primary Health Centre (PHC),0,मुझे तीन दिन से बुखार और खांसी है। | बदन दर्द और कमजोरी भी है।,,Pending Review
+DEMO002,62,Male,English,Government Hospital,0,Chest pain since morning with shortness of breath. BP 170/100.,,Pending Review
+DEMO003,21,Male,English,Campus Health Centre,1,"Mild headache since this morning. No fever, no vomiting.",,Reviewed
+DEMO004,45,Male,English,Company Clinic,1,Mild cough for 2 days.,,Pending Review
+DEMO005,28,Female,Hindi,Public Health Camp,2,"पिछले पांच दिन से उल्टी और दस्त हैं, कमजोरी बहुत है।",Date: 02/10/2026 | Hemoglobin 9.1 g/dL 12.0 - 15.5 L | Total WBC Count 11800 /cumm 4000 - 11000 H | Platelet Count 210000 /cumm 150000 - 410000 | Serum Creatinine 0.8 mg/dL 0.6 - 1.1,Pending Review
+DEMO006,0,Male,Hindi,Community Health Centre (CHC),2,बच्चे को एक दिन से बुखार है और दूध कम पी रहा है।,,Escalated
+DEMO007,52,Female,English,Government Hospital,3,Diabetic. Fever 102 F for 4 days with burning urination. Taking paracetamol.,Date: 03/10/2026 | Fasting Blood Sugar 262 mg/dL 70 - 100 H | HbA1c 9.4 % 4.0 - 5.6 H,More Info Requested
+DEMO008,30,Male,English,Industrial Health Unit,3,"Fall from height at workplace, pain in left leg since 2 hours. Moderate swelling.",,Pending Review
+DEMO009,19,Female,Hindi,Campus Health Centre,4,"हल्का सिर दर्द और सर्दी है, कल से।",,Reviewed
+DEMO010,70,Male,English,Government Hospital,5,"Cough and breathlessness for 10 days, worsening. Known hypertension. SpO2 90%",Date: 04/10/2026 | Total WBC Count 14200 /cumm 4000 - 11000 H | Hemoglobin 13.1 g/dL 13.0 - 17.0,Escalated
+DEMO011,55,Male,Hindi,Primary Health Centre (PHC),6,सीने में दर्द और सांस लेने में तकलीफ है।,,Escalated
+DEMO012,38,Female,English,Public Health Camp,6,"Itching rash on arms for 1 day, mild. No fever.",,Reviewed
